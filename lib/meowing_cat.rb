@@ -10,4 +10,8 @@ class Cat
     @name
   end
   
+  def meow
+    puts "meow!"
+  end
+  
 end
